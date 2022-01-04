@@ -1,0 +1,128 @@
+{
+     "1": {
+        "name": "dinesh",
+          "vehical": "bike",
+          "vehical_number": 23045,
+          "phone_no": 9745362945,
+          "bike_color": "red",
+          "rating": "****",
+          "amount/km": 18,
+          "feadback":[]
+     },
+     "2": {
+        "name": "mahesh",
+          "vehical": "bike",
+          "vehical_number": 23567,
+         
+          "phone_no": 9745368854,
+          "bike_color": "white",
+          "rating": "***",
+          "amount/km": 14,
+          "feadback":[]
+     },
+     "3": {
+        "name": "surendra",
+          "vehical": "bike",
+          "vehical_number": 28765,
+         
+          "phone_no": 8453628759,
+          "bike_color": "brown",
+          "rating": "****",
+          "amount/km": 15,
+          "feadback":[]
+     },
+     "4": {
+        "name": "gourav",
+          "vehical": "cab",
+          "vehical_number": 23457,
+
+          "phone_no": 9452375467,
+          "cab_color": "black",
+          "rating": "****",
+          "amount/km": 9,
+          "feadback":[]
+     },
+     "5": {
+        "name": "nitesh",
+          "vehical": "cab",
+          "vehical_number": 25345,
+          "phone_no": 7654382967,
+          "cab_color": "gray",
+          "rating": "*****",
+          "amount/km": 10,
+          "feadback":[]
+     },
+     "6": {
+        "name": "sourabh",
+          "vehical": "cab",
+          "vehical_number": 15340,
+         
+          "phone_no": 7546389562,
+          "cab_color": "pich",
+          "rating": "*****",
+          "amount/km": 13,
+          "feadback":[]
+     },
+     "7": {
+        "name": "kumar",
+          "vehical": "taxi",
+          "vehical_number": 23675,
+         
+          "phone_no": 9777883322,
+          "taxi_color": "white",
+          "rating": "***",
+          "amount/km": 12,
+          "feadback":[]
+     },
+     "8": {
+          "name": "suraj",
+          "vehical": "taxi",
+          "vehical_number": 40321,
+          "phone_no": 8462626184,
+          "taxi_color": "brown",
+          "rating": "****",
+          "amount/km": 11,
+          "feadback":[]
+     },
+     "9": {
+          "name": "govind",
+          "vehical": "taxi",
+          "vehical_number": 60432,
+          "phone_no": 9450444123,
+          "taxi_color": "black",
+          "rating": "****",
+          "amount/km": 11,
+          "feadback":[]
+     },
+     "10": {
+        "name": "suresh",
+          "vehical": "auto",
+          "vehical_number": 80605,
+          
+          "phone_no": 9040237045,
+          "auto_color": "blue",
+          "rating": "*****",
+          "amount/km": 11,
+          "feadback":[]
+     },
+     "11": {
+        "name": "subham",
+          "vehical": "auto",
+          "vehical_number": 10621,
+          "phone_no": 6264524132,
+          "auto_color": "red",
+          "rating": "*****",
+          "amount/km": 10,
+          "feadback":[]
+     },
+     "12": {
+          "name": "devendra",
+          "vehical": "auto",
+          "vehical_number": 23450,
+          "phone_no": 9174536287,
+          "auto_color": "gray",
+          "rating": "****",
+          "amount/km": 9,
+          "feadback":[]
+     }
+}
